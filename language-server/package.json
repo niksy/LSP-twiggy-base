@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "twiggy-language-server": "^0.13.1"
+    "twiggy-language-server": "^0.13.2"
   }
 }
