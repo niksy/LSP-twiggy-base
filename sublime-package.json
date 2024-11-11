@@ -3,10 +3,10 @@
     "settings": [
       {
         "file_patterns": [
-          "/LSP-twig.sublime-settings"
+          "/LSP-twiggy.sublime-settings"
         ],
         "schema": {
-          "$id": "sublime://settings/LSP-twig",
+          "$id": "sublime://settings/LSP-twiggy",
           "definitions": {
             "PluginConfig": {
               "properties": {
@@ -66,7 +66,7 @@
               "$ref": "sublime://settings/LSP-plugin-base"
             },
             {
-              "$ref": "sublime://settings/LSP-twig#/definitions/PluginConfig"
+              "$ref": "sublime://settings/LSP-twiggy#/definitions/PluginConfig"
             }
           ]
         }
@@ -81,8 +81,8 @@
               "properties": {
                 "LSP": {
                   "properties": {
-                    "LSP-twig": {
-                      "$ref": "sublime://settings/LSP-twig#/definitions/PluginConfig"
+                    "LSP-twiggy": {
+                      "$ref": "sublime://settings/LSP-twiggy#/definitions/PluginConfig"
                     }
                   }
                 }
