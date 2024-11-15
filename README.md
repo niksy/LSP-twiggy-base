@@ -1,3 +1,11 @@
+![Deprecated project](https://img.shields.io/badge/status-deprecated-red.svg)
+
+**This project is deprecated.**
+
+Development has switched to [main LSP repository](https://github.com/sublimelsp/LSP-twiggy).
+
+---
+
 # LSP-twiggy
 
 Twig support for Sublime’s LSP.
